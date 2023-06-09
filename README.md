@@ -1,1 +1,1 @@
-``cp -r /emacs.cfg/*`` at ``~/.emacs.d``
+``cp -r /emacs.cfg/*`` at ``~/.emacs.d`` or the emacs home dir.
